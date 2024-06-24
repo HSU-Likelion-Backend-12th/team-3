@@ -3,6 +3,7 @@
 ## README.md 파일에 아래 내용을 작성
 a. 배포 과정, 어려움을 정리한 개인 노션 링크 (해당 노션 페이지를 publish 하거나 멘토의 이메일을 추가하여 멘토가 해당 내용들을 확인할 수 있도록 해야함)
 https://same-cesium-d2b.notion.site/AWS-Depolyment-87af7ce3d3b441d9a2f0c04cdc898691?pvs=4
+
 b. AWS 인스턴스에 할당된 탄력적 IP 스크린샷 (AWS에서 스크린샷)
 <img width="211" alt="image" src="https://github.com/HSU-Likelion-Backend-12th/team-3/assets/77336664/e86d09de-2daa-42f5-91aa-a0598909eb8d">
 
