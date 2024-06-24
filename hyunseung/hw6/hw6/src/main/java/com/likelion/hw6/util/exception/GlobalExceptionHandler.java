@@ -1,6 +1,6 @@
 package com.likelion.hw6.util.exception;
 
-import com.server.scapture.util.response.CustomAPIResponse;
+import com.likelion.hw6.util.response.CustomAPIResponse;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;
 import org.springframework.context.support.DefaultMessageSourceResolvable;
