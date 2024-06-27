@@ -10,7 +10,7 @@
 4.  postman으로 `GET` `http://ip주소:8080/api/hello` 으로 요청을 보냈을 때 `본인이름 hw6 과제 제출합니다.` 라는 응답이 오는 스크린샷
 
       - 스크린 샷
-        ![image](https://github.com/HSU-Likelion-Backend-12th/team-3/assets/147326233/2fd04521-d91b-43e1-9424-cd30726fef3b)
+        <img width="833" alt="image" src="https://github.com/HSU-Likelion-Backend-12th/team-3/assets/147326233/fb76ff61-203c-41f1-a150-11be1c455b5c">
 
       - 어려웠던 점
 
